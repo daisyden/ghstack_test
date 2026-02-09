@@ -1,5 +1,3 @@
-# Owner(s): ["module: cuda"]
-# ruff: noqa: F841
 
 import contextlib
 import ctypes
