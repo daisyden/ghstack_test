@@ -1,5 +1,3 @@
-# Owner(s): ["module: unknown"]
-import contextlib
 import copy
 import inspect
 import itertools
