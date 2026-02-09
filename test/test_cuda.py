@@ -1,6 +1,4 @@
-# Owner(s): ["module: cuda"]
-# ruff: noqa: F841
-
+daisy
 import contextlib
 import ctypes
 import gc
