@@ -1,5 +1,3 @@
-# Owner(s): ["module: fx"]
-# ruff: noqa: F841
 # flake8: noqa: E221
 
 import builtins
