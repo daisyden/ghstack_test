@@ -1,5 +1,3 @@
-# Owner(s): ["module: hub"]
-
 import os
 import tempfile
 import unittest
