@@ -1,4 +1,3 @@
-# Owner(s): ["module: intel"]
 
 import collections
 import ctypes
